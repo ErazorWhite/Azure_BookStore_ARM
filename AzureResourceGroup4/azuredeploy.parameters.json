@@ -8,6 +8,9 @@
     "username": {
       "value": "vmadmin"
     },
+    "password": {
+      "value": "PASS123$PASS123$"
+    },
     "sqlAuthenticationLogin": {
       "value": "sqladmin"
     },
