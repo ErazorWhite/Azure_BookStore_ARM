@@ -8,14 +8,8 @@
     "username": {
       "value": "vmadmin"
     },
-    "password": {
-      "value": "PASS123$PASS123$"
-    },
     "sqlAuthenticationLogin": {
       "value": "sqladmin"
-    },
-    "sqlAuthenticationPassword": {
-      "value": "PASS123$PASS123$"
     },
     "webSrvVMSize": {
       "value": "Standard_DS1"
